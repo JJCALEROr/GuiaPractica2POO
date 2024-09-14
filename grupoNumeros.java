@@ -12,7 +12,7 @@ class grupoNumeros{
 		mayor=num;
 		menor=num;
 	
-	for(int i=2; i<7; i++){
+	for(int i=1; i<6; i++){
 			System.out.print("Ingrese un numero: ");
 			num=scan.nextInt();
 			if(num>mayor){
